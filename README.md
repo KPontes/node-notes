@@ -1,1 +1,2 @@
 # node-notes
+Notes application
